@@ -2,35 +2,151 @@
 
 ## 2_1_network_modified.ipynb
 
-![](../image/DNN_Day1/pra1-1.png)
-
-
+![](../image/DNN_Day2/pra1-1.png)
+![](../image/DNN_Day2/pra1-2.png)
+![](../image/DNN_Day2/pra1-3.png)
+![](../image/DNN_Day2/pra1-4.png)
+![](../image/DNN_Day2/pra1-5.png)
+![](../image/DNN_Day2/pra1-6.png)
+![](../image/DNN_Day2/pra1-7.png)
 
 ## 2_2_1_vanishing_gradient.ipynb
 
-
+![](../image/DNN_Day2/pra2-1.png)
+![](../image/DNN_Day2/pra2-2.png)
+![](../image/DNN_Day2/pra2-3.png)
+![](../image/DNN_Day2/pra2-4.png)
+![](../image/DNN_Day2/pra2-5.png)
+![](../image/DNN_Day2/pra2-6.png)
+![](../image/DNN_Day2/pra2-7.png)
+![](../image/DNN_Day2/pra2-8.png)
+![](../image/DNN_Day2/pra2-9.png)
+![](../image/DNN_Day2/pra2-10.png)
+![](../image/DNN_Day2/pra2-11.png)
+![](../image/DNN_Day2/pra2-12.png)
+![](../image/DNN_Day2/pra2-13.png)
+![](../image/DNN_Day2/pra2-14.png)
+![](../image/DNN_Day2/pra2-15.png)
+![](../image/DNN_Day2/pra2-16.png)
+![](../image/DNN_Day2/pra2-17.png)
+![](../image/DNN_Day2/pra2-18.png)
+![](../image/DNN_Day2/pra2-19.png)
+![](../image/DNN_Day2/pra2-20.png)
+![](../image/DNN_Day2/pra2-21.png)
+![](../image/DNN_Day2/pra2-22.png)
+![](../image/DNN_Day2/pra2-23.png)
+![](../image/DNN_Day2/pra2-24.png)
+![](../image/DNN_Day2/pra2-25.png)
+![](../image/DNN_Day2/pra2-26.png)
+![](../image/DNN_Day2/pra2-27.png)
+![](../image/DNN_Day2/pra2-28.png)
+![](../image/DNN_Day2/pra2-29.png)
+![](../image/DNN_Day2/pra2-30.png)
+![](../image/DNN_Day2/pra2-31.png)
+![](../image/DNN_Day2/pra2-32.png)
+![](../image/DNN_Day2/pra2-33.png)
+![](../image/DNN_Day2/pra2-34.png)
+![](../image/DNN_Day2/pra2-35.png)
+![](../image/DNN_Day2/pra2-36.png)
+![](../image/DNN_Day2/pra2-37.png)
 
 ## 2_3_batch_normalization.ipynb
 
-
+![](../image/DNN_Day2/pra3-1.png)
+![](../image/DNN_Day2/pra3-2.png)
+![](../image/DNN_Day2/pra3-3.png)
+![](../image/DNN_Day2/pra3-4.png)
+![](../image/DNN_Day2/pra3-5.png)
+![](../image/DNN_Day2/pra3-6.png)
+![](../image/DNN_Day2/pra3-7.png)
+![](../image/DNN_Day2/pra3-8.png)
 
 ## 2_4_optimizer_after.ipynb
 
-
+![](../image/DNN_Day2/pra4-1.png)
+![](../image/DNN_Day2/pra4-2.png)
+![](../image/DNN_Day2/pra4-3.png)
+![](../image/DNN_Day2/pra4-4.png)
+![](../image/DNN_Day2/pra4-5.png)
+![](../image/DNN_Day2/pra4-6.png)
+![](../image/DNN_Day2/pra4-7.png)
+![](../image/DNN_Day2/pra4-8.png)
+![](../image/DNN_Day2/pra4-9.png)
+![](../image/DNN_Day2/pra4-10.png)
+![](../image/DNN_Day2/pra4-11.png)
+![](../image/DNN_Day2/pra4-12.png)
+![](../image/DNN_Day2/pra4-13.png)
+![](../image/DNN_Day2/pra4-14.png)
+![](../image/DNN_Day2/pra4-15.png)
+![](../image/DNN_Day2/pra4-16.png)
+![](../image/DNN_Day2/pra4-17.png)
+![](../image/DNN_Day2/pra4-18.png)
+![](../image/DNN_Day2/pra4-19.png)
+![](../image/DNN_Day2/pra4-20.png)
+![](../image/DNN_Day2/pra4-21.png)
 
 ## 2_5_overfiting.ipynb
 
-
+![](../image/DNN_Day2/pra5-1.png)
+![](../image/DNN_Day2/pra5-2.png)
+![](../image/DNN_Day2/pra5-3.png)
+![](../image/DNN_Day2/pra5-4.png)
+![](../image/DNN_Day2/pra5-5.png)
+![](../image/DNN_Day2/pra5-6.png)
+![](../image/DNN_Day2/pra5-7.png)
+![](../image/DNN_Day2/pra5-8.png)
+![](../image/DNN_Day2/pra5-9.png)
+![](../image/DNN_Day2/pra5-10.png)
+![](../image/DNN_Day2/pra5-11.png)
+![](../image/DNN_Day2/pra5-12.png)
+![](../image/DNN_Day2/pra5-13.png)
+![](../image/DNN_Day2/pra5-14.png)
+![](../image/DNN_Day2/pra5-15.png)
+![](../image/DNN_Day2/pra5-16.png)
+![](../image/DNN_Day2/pra5-17.png)
+![](../image/DNN_Day2/pra5-18.png)
+![](../image/DNN_Day2/pra5-19.png)
+![](../image/DNN_Day2/pra5-20.png)
+![](../image/DNN_Day2/pra5-21.png)
+![](../image/DNN_Day2/pra5-22.png)
+![](../image/DNN_Day2/pra5-23.png)
+![](../image/DNN_Day2/pra5-24.png)
+![](../image/DNN_Day2/pra5-25.png)
+![](../image/DNN_Day2/pra5-26.png)
+![](../image/DNN_Day2/pra5-27.png)
+![](../image/DNN_Day2/pra5-28.png)
 
 ## 2_6_simple_convolution_network_after.ipynb
 
-
+![](../image/DNN_Day2/pra6-1.png)
+![](../image/DNN_Day2/pra6-2.png)
+![](../image/DNN_Day2/pra6-3.png)
+![](../image/DNN_Day2/pra6-4.png)
+![](../image/DNN_Day2/pra6-5.png)
+![](../image/DNN_Day2/pra6-6.png)
+![](../image/DNN_Day2/pra6-7.png)
+![](../image/DNN_Day2/pra6-8.png)
+![](../image/DNN_Day2/pra6-9.png)
+![](../image/DNN_Day2/pra6-10.png)
+![](../image/DNN_Day2/pra6-11.png)
+![](../image/DNN_Day2/pra6-12.png)
+![](../image/DNN_Day2/pra6-13.png)
+![](../image/DNN_Day2/pra6-14.png)
 
 ## 2_7_double_comvolution_network_after.ipynb
 
-
+![](../image/DNN_Day2/pra7-1.png)
+![](../image/DNN_Day2/pra7-2.png)
+![](../image/DNN_Day2/pra7-3.png)
+![](../image/DNN_Day2/pra7-4.png)
+![](../image/DNN_Day2/pra7-5.png)
+![](../image/DNN_Day2/pra7-6.png)
 
 ## 2_8_deep_convolution_net.ipynb
 
-
-
+![](../image/DNN_Day2/pra8-1.png)
+![](../image/DNN_Day2/pra8-2.png)
+![](../image/DNN_Day2/pra8-3.png)
+![](../image/DNN_Day2/pra8-4.png)
+![](../image/DNN_Day2/pra8-5.png)
+![](../image/DNN_Day2/pra8-6.png)
