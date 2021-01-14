@@ -33,6 +33,20 @@
 ![](../image/DNN_Day3/pra1-29.png)
 ![](../image/DNN_Day3/pra1-30.png)
 
+## predict_word.ipynb
+
+![](../image/DNN_Day3/pra2-1.png)
+![](../image/DNN_Day3/pra2-2.png)
+![](../image/DNN_Day3/pra2-3.png)
+![](../image/DNN_Day3/pra2-4.png)
+![](../image/DNN_Day3/pra2-5.png)
+![](../image/DNN_Day3/pra2-6.png)
+![](../image/DNN_Day3/pra2-7.png)
+![](../image/DNN_Day3/pra2-8.png)
+![](../image/DNN_Day3/pra2-9.png)
+![](../image/DNN_Day3/pra2-10.png)
+![](../image/DNN_Day3/pra2-11.png)
+
 ## 3_3_predict_sin.ipynb
 
 ![](../image/DNN_Day3/pra3-1.png)
